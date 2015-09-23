@@ -19,4 +19,4 @@ $ curl 0.0.0.0:3000/YOUR_SEARCH_QUERY
 
 ## Notes
 
-I'm unsure why I was unable to crawl DuckDuckGo.
+For some reason, when I hit the DuckDuckGo search page, it redirects to the home page. That's why the DuckDuckGo results are empty. Would have loved to spend more time figuring this bug out.
